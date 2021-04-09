@@ -5,8 +5,6 @@ import as3.gameui.GameUi;
  * Main.java
  * Last modified on: February 21, 2018
  * Author: Bowen He
- * Student ID : 301174759
- * Email : bhhe@sfu.ca
  */
 public class Main {
     private static final int DEFAULT_TANK_AMOUNT = 5;
